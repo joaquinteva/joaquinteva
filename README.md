@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Tetuan Valley
+- 🔭 I’m currently working at Tetuan Valley
 - 🌱 I’m currently learning how to automate the process of converting my input (a database of key people) into the output (having a brief description of each of those key people)
 - 👯 I’m looking to collaborate on community-building
 - 🤔 I’m looking for help with improving my communication skills.
